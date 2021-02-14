@@ -1,0 +1,13 @@
+{
+  "proxy_type": "HTTP",
+  "use_proxy": false,
+  "use_multi_threaded": true,
+  "threads": 3,
+  "duplicate_tokens": true,
+  "check_guilds": true,
+  "check_dms": false,
+  "check_friends": false,
+  "location": true,
+  "avatar": true,
+  "debug": true
+}
